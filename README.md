@@ -1,6 +1,6 @@
 # Python Descriptors
 
-Python descriptors to solve the property(getter) problem.
+Python descriptors to solving the problems of property(getter)
 
 #
 
