@@ -1,4 +1,4 @@
-"""using property(getter), setter, deleter for all variables,
+"""Using property(getter), setter, deleter for all variables,
 It creates similar(it repeats itself) code and the code is not clean!
 """
 
